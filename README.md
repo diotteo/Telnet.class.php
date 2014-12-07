@@ -1,6 +1,8 @@
 TelnetClient.php
 ================
 
+This project was cloned here: https://github.com/diotteo/TelnetClient.php
+
 Telnet client implementation in PHP.
 
 This code is based on https://github.com/ngharo/Random-PHP-Classes/blob/master/Telnet.class.php
